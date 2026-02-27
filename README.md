@@ -1,5 +1,5 @@
 # csc520assignment1
-We based our implementation on the given Harry Potter example. There are 3 pieces of evidence hidden around the map that Harry must find before he reaches a "safe" room. Only then is the search complete.
+We based our implementation on the given Harry Potter example. There are 3 pieces of evidence hidden around the map that Harry must find before he reaches a "safe" room. Only then is the search complete. We have implemented depth and breadth first searches. <br>
 To compile this code, simply download the raw "harry.xml" file in the code folder. Then upload that file into SNAP. <br>
 To run the project in SNAP, click the pink "Sprite" circle on the right. In the Scripts tab, there should be a small block of code starting with "when green flag clicked". Press the block of code to generate the map. Do this each time before running a new search. Then click the "Harry" sprite on the right. If you scroll to the bottom of the Scripts tab, there should be another small block of code that begins with "when green flag clicked." You can input the name of any room from the map you want to begin your search in into the first text input. You can also input the type of search you want to run (BFS or DFS) into the second text input. <br>
 
