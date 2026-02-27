@@ -18,14 +18,14 @@ what outputs the project produces (path, cost, expansions, trace)
 
 
 *Assumptions*
-*All rooms will always be reachable from any starting state
-*Harry has perfect information. He knows the whole map and room connections upfront.
-*Evidence can be collected in any order
-*Only one Harry is searching at a time
+* All rooms will always be reachable from any starting state
+* Harry has perfect information. He knows the whole map and room connections upfront.
+* Evidence can be collected in any order
+* Only one Harry is searching at a time
 
 *Limitations*
-*A state can be added to the fringe multiple times with different costs before it is officially explored
-*Evidence is tracked globally, not in states. This simplified our implementation.
-*Visualization is limited by SNAP!. We aren't able to visualize multiple paths simultaneously
+* A state can be added to the fringe multiple times with different costs before it is officially explored
+* Evidence is tracked globally, not in states. This simplified our implementation.
+* Visualization is limited by SNAP!. We aren't able to visualize multiple paths simultaneously
 
 To see the rest of the details on our test cases and program, look at the project report in the docs folder.
