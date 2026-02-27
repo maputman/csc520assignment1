@@ -8,10 +8,10 @@ To run the project in SNAP, click the pink "Sprite" circle on the right. In the 
 How have you designed your infrastructure (code that represents the graph, actions,
 transition function, etc)
 
-*Loading Test Cases*
-BFS:
-Test 1: 
-DFS:
+*Loading Test Cases* <br>
+BFS: <br>
+Test 1: <br>
+DFS: <br>
 
 
 what outputs the project produces (path, cost, expansions, trace)
