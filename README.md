@@ -9,7 +9,16 @@ The goal test is implemented in the isGoal? block. It checks that the global evi
 
 *Loading Test Cases* <br>
 BFS: <br>
-Test 1: Start Room: Great Hall
+Test 1: <br>
+In the "Harry" sprite, scroll to the bottom of the Scripts tab. There is a small block of code that begins with "when green flag clicked." Input "Great Hall" into the first text input and input "BFS" into the second text input. <br>
+
+Test 2: <br>
+In the "Harry" sprite, scroll to the bottom of the Scripts tab. There is a small block of code that begins with "when green flag clicked." Input "Dungeons" into the first text input and input "BFS" into the second text input. <br>
+
+Test 3: <br>
+In the "Harry" sprite, scroll to the bottom of the Scripts tab. There is a small block of code that begins with "when green flag clicked." Input "Cursed Objects Vault" into the first text input and input "BFS" into the second text input. <br>
+
+
 DFS: <br>
 
 The project produces path length (announced when goal is found) and expanded node count (can be viewed by clicking the "expanded count" variable in the Variables section of the project). The nodes visited are marked by Harry clones and the room names are announced as each one is visited.
